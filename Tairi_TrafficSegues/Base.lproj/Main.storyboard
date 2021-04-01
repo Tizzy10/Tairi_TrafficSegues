@@ -83,7 +83,7 @@
                         <viewLayoutGuide key="safeArea" id="Jsg-oi-O3Z"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" title="White" prompt="Press button to go back to Home" id="ZSM-6P-oF7">
+                    <navigationItem key="navigationItem" title="White" prompt="Press &quot;Done&quot; to go back to Home" id="ZSM-6P-oF7">
                         <barButtonItem key="rightBarButtonItem" title="Done" id="ipL-Fk-C6D">
                             <connections>
                                 <segue destination="Ilj-Z9-ZAy" kind="unwind" unwindAction="unwindToRedWithUnwindSegue:" id="iyS-Pw-7rd"/>
